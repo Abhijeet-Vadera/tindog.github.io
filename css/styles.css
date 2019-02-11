@@ -1,0 +1,140 @@
+#title{
+    background-color: #ff4c68;
+    font-family: Montserrat;
+    padding: 0 0 3rem 0;
+}
+
+.navbar-tindog{
+    background-color: #ff4c68 !important;
+    color:#fff;
+    margin: 0 10%;
+}
+
+#title h1{
+    font-size: 3.5rem;
+    font-weight: 700;
+    color:#fff;
+    line-height: 1.2;
+}
+
+.download-btn{
+    padding:18px;
+    font-size: 1.6rem;
+    margin-right: 12px;
+}
+
+.logo-text{
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+}
+
+.nav-link{
+    font-family: Montserrat;
+    margin:0 1rem;
+    font-size: 1.4rem;
+}
+
+.title-image{
+    width:65%;
+    transform: rotate(20deg);
+}
+
+.sub-section{
+    margin-top:3rem;
+}
+
+
+#features{
+    font-family: Montserrat;
+    padding:7% 15%;
+}
+
+#features h3{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+#features p{
+    color:#8f8f8f;
+}
+
+.feature-box{
+    text-align: center;
+}
+
+.fa-effect{
+    margin-bottom: 10px;
+    color: #ef8172;
+    cursor: pointer;
+    transition: color 0.4s, transform 0.4s;
+}
+
+.fa-effect:hover{
+    color:#ff4c68;
+    transform: scale(1.2);
+}
+
+#testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+    font-family: Montserrat;
+}
+
+#testimonials h2{
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+
+.carousel-item img{
+    width:15%;
+    border-radius:100%;
+    margin-right: 30px; 
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+#press img{
+    width: 15%;
+    margin: 0 30px;
+}
+
+#pricing{
+    font-family: Montserrat;
+    text-align: center;
+    margin: 5rem 0;
+}
+
+#pricing h2{
+    font-size: 2.5rem;
+    line-height: 1.5;
+    font-weight: 700;
+}
+.pricing-card{
+    box-shadow:0px 0px 1px #000;
+    cursor: pointer;
+    transition: box-shadow 0.6s, transform 0.6s;
+}
+
+.pricing-card:hover{
+    box-shadow:0px 0px 3px #000;
+    transform: scale(1.05);
+}
+
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+    background: url("../images/cute-puppy.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
